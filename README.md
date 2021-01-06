@@ -1,6 +1,6 @@
 # Link: https://seven-wave.github.io/GitClient/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Redax and hooks are also used here.
 
 ## Available Scripts
 
